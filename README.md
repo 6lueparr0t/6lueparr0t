@@ -1,4 +1,10 @@
 <div align=center>
+  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  
   <dl>
     <h3>단순함은 궁극의 정교함이다.</h3>
     <dt>레오나르도 다빈치 (Leonardo da Vinci)</dt>
