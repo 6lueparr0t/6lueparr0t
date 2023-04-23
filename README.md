@@ -6,8 +6,18 @@
   <br/>
   
   <dl>
-    <h3>단순함은 궁극의 정교함이다.</h3>
-    <dt>레오나르도 다빈치 (Leonardo da Vinci)</dt>
+    <h3>
+      단순함은 궁극의 정교함이다.
+    </h3>
+    <sup>
+      Simplicity is the Ultimate Sophistication.
+    </sup>
+    <dt>
+      레오나르도 다빈치
+    </dt>
+    <dt>
+      <sup>Leonardo da Vinci</sup>
+    </dt>
   </dl>
   
   <br/>
