@@ -10,11 +10,8 @@
   </div>
   <sup>Simplicity is the Ultimate Sophistication.</sup>
   
-  <br/>
-  <br/>
-  
   <div>
-    <sup>레오나르도 다빈치</sup>
+    <sub>레오나르도 다빈치</sub>
   </div>
   <sup>Leonardo da Vinci</sup>
   
