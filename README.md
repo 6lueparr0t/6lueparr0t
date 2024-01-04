@@ -3,21 +3,20 @@
 <br/>
 <br/>
 <br/>
-<br/>
   
   <div>
-    <b>Q : How do you learn programming?</b>
+    <h3>Q : How do you learn programming?</h3>
   </div>
-  <sub>Q : 프로그래밍은 어떻게 배우나요?</sub>
+  <b>Q : 프로그래밍은 어떻게 배우나요?</b>
 
 <br/>
 <br/>
 <br/>
 
   <div>
-    <b>A : Mostly by trial and error.</b>
+    <h3>A : Mostly by trial and error.</h3>
   </div>
-  <sub>A : 대부분 시행착오를 거쳐서죠.</sub>
+  <b>A : 대부분 시행착오를 거쳐서죠.</b>
 <!--
   <div>
     <b>단순함은 궁극의 정교함이다.</b>
