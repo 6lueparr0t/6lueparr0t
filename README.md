@@ -1,36 +1,34 @@
-<div align=center>
+## How to run him
 
-<br/>
-<br/>
-<br/>
-  
-  <div>
-    <h3>Q : How do you learn programming?</h3>
-  </div>
-  <b>Q : 프로그래밍은 어떻게 배우나요?</b>
+```
+FROM man:asia-seoul
 
-<br/>
-<br/>
-<br/>
+ENV NAME "Daehyun Lim"
+ENV BIRTH 694083600 # 1991/12/30
+ENV EDUCATION "Master's Degree of Computer Software in Yonsei Univ"
 
-  <div>
-    <h3>A : Mostly by trial and error.</h3>
-  </div>
-  <b>A : 대부분 시행착오를 거쳐서죠.</b>
-<!--
-  <div>
-    <b>단순함은 궁극의 정교함이다.</b>
-  </div>
-  <sup>Simplicity is the Ultimate Sophistication.</sup>
-  
-  <div>
-    <sub>레오나르도 다빈치</sub>
-  </div>
-  <sup>Leonardo da Vinci</sup> -->
-<br/>
-<br/>
-<br/>
-<br/>
+WORKDIR /web-developer
+
+RUN rm -rf ./design-sense
+
+COPY ./back-end-knowledge .
+COPY ./some-devops-skill .
+COPY ./much-front-end .
+COPY ./AI-a-bit .
+
+ADD coffee .
+
+RUN sleep 21600 # 6 hour
+RUN study --from=udemy
+RUN make money --to=company --only=prod
+RUN eat everything --except=seaweed-stem # 미역줄기
+RUN workout --target=six-pack
+#RUN play music webtoon youtube
+
+ENTRYPOINT life start
+
+EXPOSE https://blog.rgbplace.com
+```
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6lueparr0t&count_bg=%23338CFF&title_bg=%2301559A&icon=fluentd.svg&icon_color=%23FAFAFA&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
