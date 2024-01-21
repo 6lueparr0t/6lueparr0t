@@ -20,7 +20,7 @@ ADD coffee .
 
 RUN sleep 21600 # 6 hour
 RUN study --from=udemy
-RUN make money --to=company --only=prod
+RUN make money --from=company --for=me,family,lover --only=prod
 RUN eat everything --except=seaweed-stem # 미역줄기
 RUN workout --target=six-pack
 #RUN play music webtoon youtube
