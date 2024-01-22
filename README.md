@@ -21,11 +21,11 @@ ADD coffee .
 RUN sleep 21600 # 6 hour
 RUN study --from=udemy
 RUN make money --from=company --for=me,family,lover --only=prod
-RUN eat korea-ramen --except=seaweed-stem # 미역줄기
+RUN eat pork-cutlet homemade-kimchijjigae --except=seaweed-stem # 미역줄기
 RUN workout --target=six-pack
-#RUN play music webtoon youtube
+#RUN play webtoon youtube chzzk
 
-ENTRYPOINT life start
+ENTRYPOINT say "Hello, World!"
 
 EXPOSE https://blog.rgbplace.com
 ```
