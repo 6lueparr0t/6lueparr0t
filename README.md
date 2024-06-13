@@ -18,7 +18,6 @@ COPY ./AI-a-bit .
 
 ADD coffee .
 
-RUN sleep 21600 # 6 hour
 RUN study --from=udemy
 RUN make money --from=company --for=me,family,lover --only=prod
 RUN eat pork-cutlet homemade-kimchijjigae --except=seaweed-stem # 미역줄기
