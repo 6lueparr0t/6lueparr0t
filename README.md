@@ -24,9 +24,9 @@ RUN eat pork-cutlet homemade-kimchijjigae --except=seaweed-stem # 미역줄기
 RUN workout --target=six-pack
 #RUN play webtoon youtube chzzk
 
-ENTRYPOINT say "Hello, World!"
+ENTRYPOINT say "One For Line, Line For All"
 
-EXPOSE https://blog.rgbplace.com
+EXPOSE https://6lueparr0t.github.io
 ```
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6lueparr0t&count_bg=%23338CFF&title_bg=%2301559A&icon=fluentd.svg&icon_color=%23FAFAFA&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
