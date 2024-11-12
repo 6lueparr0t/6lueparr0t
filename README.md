@@ -1,9 +1,8 @@
 ## 6lueparr0t's Dockerfile
 
 ```
-FROM man:asia-seoul
+FROM man:asia-seoul AS daehyun-lim
 
-ENV NAME "Daehyun Lim"
 ENV BIRTH 694083600 # 1991/12/30
 ENV EDUCATION "Master's Degree of Computer Software in Yonsei Univ"
 
