@@ -13,13 +13,13 @@ RUN rm -rf ./design-sense
 COPY ./back-end-knowledge .
 COPY ./some-devops-skill .
 COPY ./much-front-end .
-COPY ./AI-a-bit .
+COPY ./AI-a-bit . --from=yonsei-univ
 
 ADD coffee .
 
-RUN study --from=udemy
-RUN make money --from=company --for=me,family,lover --only=prod
-RUN eat pork-cutlet homemade-kimchijjigae --except=seaweed-stem # 미역줄기
+RUN coding
+RUN make money --for=me,family,lover --only=production
+RUN eat pork-cutlet homemade-kimchijjigae korea-ramyun --except=seaweed-stem # 미역줄기
 RUN workout --target=six-pack
 #RUN play webtoon youtube chzzk
 
