@@ -12,7 +12,7 @@ WORKDIR /web-developer
 RUN rm -rf ./design-sense
 
 COPY ./back-end-knowledge .
-COPY ./some-devops-skill .
+COPY ./some-devops-skills .
 COPY ./much-front-end .
 COPY ./AI-a-bit . --from=yonsei-univ
 
