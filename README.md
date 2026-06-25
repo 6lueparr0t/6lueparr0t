@@ -2,6 +2,7 @@
 
 ```
 FROM man:asia-seoul AS daehyun-lim
+LABEL country="Republic of Korea"
 
 ENV BIRTH 694083600 # 1991/12/30
 ENV EDUCATION "Master's Degree of Computer Software in Yonsei Univ"
